@@ -1,4 +1,4 @@
-
+var animal = ()
 
 function myAnimal() {
   const myAnimal = 'dog';
