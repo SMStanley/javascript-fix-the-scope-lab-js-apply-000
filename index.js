@@ -1,13 +1,11 @@
 var animal = ()
 
 function myAnimal() {
-  const myAnimal = 'dog';
    return animal;
 }
 
 function yourAnimal() {
-  const yourAnimal = 'cat';
-   return animal;
+    return animal;
 }
   // How can we make sure that this function
   // and the above function both pass?
